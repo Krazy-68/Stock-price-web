@@ -1,1 +1,1 @@
-# Stock-price-web
+# Stock-price-web-application
